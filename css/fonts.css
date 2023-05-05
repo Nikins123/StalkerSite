@@ -1,11 +1,14 @@
 @font-face {
-  font-family: 'Alegreya Sans SC';
-  src: local('Alegreya Sans SC'), local('AlegreyaSansSC-Regular'), url('Alegreyasanssc.woff2') format('woff2'), url('Alegreyasanssc.woff') format('woff'), url('Alegreyasanssc.ttf') format('truetype');
+  font-family: "Alegreya Sans SC";
+  src: local("Alegreya Sans SC"), local("AlegreyaSansSC-Regular"),
+    url("Alegreyasanssc.woff2") format("woff2"),
+    url("Alegreyasanssc.woff") format("woff"),
+    url("Alegreyasanssc.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Stalker fonts';
+  font-family: "Stalker fonts";
   src: url(../fonts/amazs_t_a_l_k_e_r_v_3_0.ttf);
   font-weight: 400;
   font-style: normal;
